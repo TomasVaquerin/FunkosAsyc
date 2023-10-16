@@ -1,4 +1,4 @@
-# Funkos Asíncronos
+# Funkos Asíncronos Tomas Vaquerin Jimenez
 
 En el directorio data tienes un csv de muestra de Funkos. Con la siguiente estructura:
 - COD: En formato UUID v4
